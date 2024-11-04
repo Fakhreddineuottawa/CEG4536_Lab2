@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\CUDA 12.6.targets(446,9): error : The path specified for SourceFile at 'C:\Users\User\source\repos\lab2_CEG4536\lab2_CEG4536\kernel.cu' does not exist.
